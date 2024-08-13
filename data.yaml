@@ -1,0 +1,4 @@
+train: d:/python/car/train/images
+val: d:/python/car/valid/images
+nc: 1
+names: ['license']
